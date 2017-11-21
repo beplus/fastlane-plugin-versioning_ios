@@ -1,0 +1,19 @@
+lane :test do
+  ios_get_version(
+    xcodeproj: "Project.xcodeproj" # optional
+  )
+
+  ios_set_version(
+    version: "1.23.4",
+    xcodeproj: "Project.xcodeproj" # optional
+  )
+
+  ios_get_build_number(
+    xcodeproj: "Project.xcodeproj" # optional
+  )
+
+  ios_set_build_number(
+    build_number: 17, # optional, if not specified, Build Number will be incremented
+    xcodeproj: "Project.xcodeproj" # optional
+  )
+end
