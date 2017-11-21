@@ -26,7 +26,7 @@ Check out the [example `Fastfile`](fastlane/Fastfile) to see how to use this plu
 
 ### Example project
 
-You can find a fully functional setup of this plugin in the [UdemyFastlane](https://github.com/igorlamos/udemyfastlane) repo, where you also can find more info about versioning of iOS apps.
+You can find a fully functional setup of this plugin in the [UdemyFastlane](https://github.com/igorlamos/udemy-fastlane) repo, where you also can find more info about versioning of iOS apps.
 
 ## Run tests for this plugin
 
