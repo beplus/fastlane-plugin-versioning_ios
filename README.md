@@ -13,7 +13,9 @@ fastlane add_plugin versioning_ios
 
 ## About versioning_ios
 
-iOS Versioning Plugin for Fastlane
+iOS Versioning Plugin for Fastlane - easily Get / Set `Build Number` and `Version` on your iOS project.
+
+**Note**: If you need to work with `versionCode` and `versionName` on Android, see [versioning_android](https://github.com/beplus/fastlane-plugin-versioning_android).
 
 ### Available actions
 - `ios_get_build_number` to get the Build Number
@@ -27,7 +29,7 @@ Check out the [example `Fastfile`](fastlane/Fastfile) to see how to use this plu
 
 ### Example project
 
-You can find a fully functional setup of this plugin in the [UdemyFastlane](https://github.com/igorlamos/udemy-fastlane) repo, where you can also find more info about versioning of iOS apps.
+**@todo** You can find a fully functional setup of this plugin in the [UdemyFastlane](https://github.com/igorlamos/udemy-fastlane) repo, where you can also find more info about versioning of iOS apps.
 
 ## Run tests for this plugin
 
