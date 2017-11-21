@@ -1,5 +1,6 @@
 # versioning_ios plugin
 
+[![Build Status](https://travis-ci.org/beplus/fastlane-plugin-versioning_ios.svg?branch=master)](https://travis-ci.org/beplus/fastlane-plugin-versioning_ios)
 [![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-versioning_ios)
 
 ## Getting Started
